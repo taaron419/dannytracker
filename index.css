@@ -3,7 +3,7 @@
   padding: 100px 20px;
   color: #fff;
   position: relative;
-  background: url("contactcar.jpg") no-repeat center center/cover;
+  background: url("indexcar.jpg") no-repeat center center/cover;
 }
 
 .hero::after {
